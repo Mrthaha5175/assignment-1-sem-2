@@ -1,0 +1,19 @@
+Enter the roll number: 43
+Enetr the student name: kamal
+enter the count of subject: 6
+-----------------------
+Enter subject name: tamil
+Enter subject mark: 97
+Enter subject name: english
+Enter subject mark: 98
+Enter subject name: maths
+Enter subject mark: 88
+Enter subject name: python
+Enter subject mark: 95
+Enter subject name: data
+Enter subject mark: 88
+Enter subject name: evs
+Enter subject mark: 100
+566
+94.33333333333333
+Grade: A
